@@ -15,5 +15,5 @@ Hi! I am a Postdoc fellow at ETH Zurich.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Ehlers, W., & Luo, C. (2017). A phase-field approach embedded in the theory of porous media for the description of dynamic hydraulic fracturing. Computer Methods in Applied Mechanics and Engineering, 315, 348-368.
+2. Ehlers, W., & Luo, C. (2018). A phase-field approach embedded in the Theory of Porous Media for the description of dynamic hydraulic fracturing, Part II: The crack-opening indicator. Computer Methods in Applied Mechanics and Engineering, 341, 429-442.
