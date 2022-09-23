@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: cheluo (at) ethz.ch
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone:
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+> CLA G 25
+> Tannenstrasse 3
+> 8092 Zürich
+> Switzerland
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [ResearchGate](https://www.researchgate.net/profile/Chenyi-Luo)
+2. [Google Scholar](https://scholar.google.com/citations?user=xpjeIfsAAAAJ&hl=en)
+3. [Department Profile](https://compmech.ethz.ch/the-group/person-detail.luo.html)
