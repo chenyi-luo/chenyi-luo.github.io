@@ -1,6 +1,6 @@
 title: Chenyi Luo
 url: "https://chenyi-luo.github.io"
-baseurl: " "
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "index.html"
+   link: "index"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
