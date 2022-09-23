@@ -13,6 +13,9 @@ Hi! I am a Postdoc fellow at ETH Zurich.
 1. Phase-field modeling of hydraulic fracturing
 2. Numerical methods for phase-field models
 
+
+<img src="descrack3d.gif">
+
 ## Publications
 
 1. Ehlers, W., & Luo, C. (2017). A phase-field approach embedded in the theory of porous media for the description of dynamic hydraulic fracturing. Computer Methods in Applied Mechanics and Engineering, 315, 348-368.
