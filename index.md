@@ -15,6 +15,7 @@ My research has been focusing on fracturing saturated and unsaturated porous med
 * Numerical methods for phase-field models
 * Bifurcation analysis of coupled systems
 
+
 <img src="/resources/fractures.jpg">
 
 ## Honors and awards
