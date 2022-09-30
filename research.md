@@ -9,7 +9,7 @@ My research develops fully coupled models and efficient numerical algorithms to 
 
 To describe the coupling among fractured solid, crack propagation, and the flow, I embedded the phase-field approach for brittle fracture into the Theory of Porous Media. The developed model allows an accurate description of an autonomous transformation of pore-fluid to bulk fluid as a crack propagates. Furthermore, I introduced a crack opening indicator to transform bulk fluid back to pore-fluid in a closed crack so that the reversible flow transformation is compatible with the irreversible cracking phenomena. The model has been implemented for three-dimensional simulation of hydraulic fracturing processes.
 <p align="center">
-<img src="/resources/hf-sample.jpg" width="300"> <img src="/resources/hf3d.gif" width="368">
+<img src="/resources/hf-sample.jpg" width="200px"> <img src="/resources/hf3d.gif" width="245px">
 </p>
 ### Phase-field modeling of fracturing _unsaturated_ porous media with application to desiccation cracks
 
