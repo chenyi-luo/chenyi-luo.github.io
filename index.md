@@ -10,7 +10,7 @@ Hi! I am a Postdoc fellow in Prof. [Laura De Lorenzis](https://scholar.google.co
 
 <img src="descrack3d.gif">
 
-## Research Interest
+## Research Interests
 My research has been focusing on fracturing saturated and unsaturated porous media with applications to hydraulic fracturing and desiccation cracks.
 * Phase-field modeling of hydraulic fracturing
 * Phase-field modeling of desiccation cracks
@@ -24,6 +24,9 @@ My research has been focusing on fracturing saturated and unsaturated porous med
 * 05.2012, Hilti Scholarship, Hilti AG, Liechtenstein
 * 02.2012, DAAD fellowship, DAAD, Germany
 * 07.2011, DAAD fellowship, DAAD, Germany
+
+## Disertation
+* Chenyi Luo (2019). A Phase-field Model Embedded in the Theory of Porous Media with Application to Hydraulic Fracturing. Dissertation, Report No. II-35, Institute of Applied Mechanics (CE), University of Stuttgart, 2019. ISBN 3-937399-35-5. ([download](http://elib.uni-stuttgart.de/bitstream/11682/10372/1/diss_chenyi_luo_online.pdf))
 
 ## Selected Publications
 
