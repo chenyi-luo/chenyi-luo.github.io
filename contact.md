@@ -8,7 +8,7 @@ is_contact: true
 
 ---
 
-## Mailing Address
+## Address
 
 > CLA G 25
 > Tannenstrasse 3
