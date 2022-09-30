@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="portrait.jpg">
 
-Hi! I am a Postdoc fellow at ETH Zurich.
+Hi! I am a Postdoc fellow in Prof. [Laura De Lorenzis](https://scholar.google.com/citations?hl=en&user=qYnztGgAAAAJ)'s [Computational Mechanics Group](https://compmech.ethz.ch/) at ETH Zurich. I received my doctoral degree (Dr.-Ing) from the Institute of Applied Mechanics (Civil Engineering) at the University of Stuttgart in 2019, under the supervision of Prof. [Wolfgang Ehlers](https://scholar.google.com/citations?user=GrHhBGkAAAAJ&hl=en&oi=ao). I received my master's degree of science in computational mechanics of materials and structures ([COMMAS program](https://www.commas.uni-stuttgart.de/program/)) also from the Univeristy of Stuttgart. Before that, I received a bachelor degree of Engineering from Tongji University in Shagnhai, China.
 
 <img src="descrack3d.gif">
 
@@ -27,6 +27,6 @@ My research has been focusing on fracturing saturated and unsaturated porous med
 
 ## Selected Publications
 
-1. Ehlers, W., & Luo, C. (2017). A phase-field approach embedded in the theory of porous media for the description of dynamic hydraulic fracturing. Computer Methods in Applied Mechanics and Engineering, 315, 348-368.
-2. Ehlers, W., & Luo, C. (2018). A phase-field approach embedded in the Theory of Porous Media for the description of dynamic hydraulic fracturing, Part II: The crack-opening indicator. Computer Methods in Applied Mechanics and Engineering, 341, 429-442.
-3. Luo, C., Chen, L., & Huang, Y. (2021). A phase-field crack model based on a directional strain decomposition and a stress-driven Crack-Opening Indicator. Computer Methods in Applied Mechanics and Engineering, 384, 113928.
+1. Ehlers, W., & Luo, C. (2017). [A phase-field approach embedded in the theory of porous media for the description of dynamic hydraulic fracturing](https://www.sciencedirect.com/science/article/pii/S0045782516305461). Computer Methods in Applied Mechanics and Engineering, 315, 348-368. ([pdf](http://www.wangyongliang.net/files/2017,%20phase-field%20approach,%20hydraulic%20fracturing.pdf))
+2. Ehlers, W., & Luo, C. (2018). [A phase-field approach embedded in the Theory of Porous Media for the description of dynamic hydraulic fracturing, Part II: The crack-opening indicator](https://www.sciencedirect.com/science/article/pii/S0045782518303372). Computer Methods in Applied Mechanics and Engineering, 341, 429-442.
+3. Luo, C., Chen, L., & Huang, Y. (2021). [A phase-field crack model based on a directional strain decomposition and a stress-driven Crack-Opening Indicator](https://doi.org/10.1016/j.cma.2021.113928). Computer Methods in Applied Mechanics and Engineering, 384, 113928.([pdf](https://www.researchgate.net/publication/352244130_A_phase-field_crack_model_based_on_a_directional_strain_decomposition_and_a_stress-driven_Crack-Opening_Indicator))
