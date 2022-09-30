@@ -25,7 +25,7 @@ My research has been focusing on fracturing saturated and unsaturated porous med
 * 02.2012, DAAD fellowship, DAAD, Germany
 * 07.2011, DAAD fellowship, DAAD, Germany
 
-## Disertation
+## Dissertation
 * Chenyi Luo (2019). A Phase-field Model Embedded in the Theory of Porous Media with Application to Hydraulic Fracturing. Dissertation, Report No. II-35, Institute of Applied Mechanics (CE), University of Stuttgart, 2019. ISBN 3-937399-35-5. ([download](http://elib.uni-stuttgart.de/bitstream/11682/10372/1/diss_chenyi_luo_online.pdf))
 
 ## Selected Publications
