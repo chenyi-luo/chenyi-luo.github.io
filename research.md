@@ -20,6 +20,6 @@ To simulate fracturing unsaturated porous media, e.g., the desiccation cracking,
 
 In rain-fall induced slope failure, pre-cracks and shear deformation play important roles. I realized that the standard phase-field model fails to describe the behaviors of pre-cracked solids under both compression and shear loads. Hence, I solved this problem by using the crack-opening indicator concept along with a newly introduced directional strain decomposition for detecting the crack state under complex stress states. This completed my phase-field model for saturated porous media. 
 
-### Fast staggerred schemes for phase-field facture models
+### Fast staggered schemes for phase-field facture models
 
 For three dimensional simulation of fracture problems, I developed fast staggered schemes which can dramatically improve the computation efficiency. 
