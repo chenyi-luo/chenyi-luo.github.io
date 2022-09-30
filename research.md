@@ -14,7 +14,7 @@ To describe the coupling among fractured solid, crack propagation, and the flow,
 
 To simulate fracturing unsaturated porous media, e.g., the desiccation cracking, I investigated the behaviors of different material models considering cases when cracks are driven either by the effective-stress or the total stress. I examined the second-order stability condition of the proposed material model, which explains why the homogeneous solution bifurcates into a periodic solution and localization occurs in the numerical implementation without any deficiencies. I further introduced two saturation definitions to adapt the standard van Genuchten equation to the fractured unsaturated soil. The model is found to qualitatively agree with an experimentally observed increase in evaporation rate after crack generation. 
 
-<img src="descrack3d.gif">
+<img src="/resources/dc.gif">
 
 ### Phase-field models with directional strain decomposition and crack-opening indicator for pre-cracks under shear loading
 
