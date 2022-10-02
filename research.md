@@ -17,11 +17,6 @@ The developed model is also able to accurately describe the interaction between 
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-  </tr>
-  <tr>
     <td><img src="/resources/precrack.jpg" width="145" height="101"></td>
     <td><img src="/resources/precrack.jpg" width="145" height="101"></td>
     <td><img src="/resources/precrack.jpg" width="145" height="101"></td>
