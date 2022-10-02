@@ -14,22 +14,13 @@ To describe the coupling among fractured solid, crack propagation, and the flow,
 </p>
 
 The developed model is also able to accurately describe the interaction between the pre-crack and newly generated cracks. The numerical simulations are found to be consistent with experimental observations.
-
 <table>
   <tr>
-    <td><img src="/resources/precrack.jpg" width="33%"></td>
-    <td><img src="/resources/precrack.jpg" width="33%"></td>
-    <td><img src="/resources/precrack.jpg" width="33%"></td>
+  <td><img src="/resources/precrack.jpg" width="51.6%"></td>
+  <td><img src="/resources/caught.gif" width="24.%"></td>
+  <td><img src="/resources/penetrate.gif" width="24.%"></td>
   </tr>
- </table>
- 
-<p align="center">
-  <img src="/resources/precrack.jpg" width="145" height="101">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/resources/caught.gif" width="11.2%">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/resources/penetrate.gif" width="11.2%">
-</p>
+</table>
 
 ### Phase-field modeling of fracturing _unsaturated_ porous media with application to desiccation cracks
 
