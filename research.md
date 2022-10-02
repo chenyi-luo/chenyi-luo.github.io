@@ -14,6 +14,13 @@ To describe the coupling among fractured solid, crack propagation, and the flow,
   <img src="/resources/hf3d.gif" width="25%">
 </p>
 
+
+<p align="center">
+  <img src="/resources/precrack.jpg" width="10.4%">
+  <img src="/resources/caught.gif" width="15%">
+  <img src="/resources/penetrate.gif" width="15%">
+</p>
+
 ### Phase-field modeling of fracturing _unsaturated_ porous media with application to desiccation cracks
 
 To simulate fracturing unsaturated porous media, e.g., the desiccation cracking, we investigated the behaviors of different material models considering cases when cracks are driven either by the effective-stress or the total stress. The second-order stability condition of the proposed material model was examined to explain why the homogeneous solution bifurcates into a periodic solution and localization occurs in the numerical implementation without any deficiencies. We further introduced two saturation definitions to adapt the standard van Genuchten equation to the fractured unsaturated soil. The model is found to qualitatively agree with an experimentally observed increase in evaporation rate after crack generation. 
@@ -24,6 +31,11 @@ To simulate fracturing unsaturated porous media, e.g., the desiccation cracking,
 ### Phase-field models with directional strain decomposition and crack-opening indicator for pre-cracks under shear loading
 
 In rain-fall induced slope failure, pre-cracks and shear deformation play important roles. We found that the standard phase-field model fails to describe the behaviors of pre-cracked solids under both compression and shear loads. Hence, we solved this problem by using the crack-opening indicator concept along with a newly introduced directional strain decomposition for detecting the crack state under complex stress states. This completed the previously proposed phase-field model for saturated porous media. 
+
+<p align="center">
+  <img src="/resources/tension.gif" width="25%">
+  <img src="/resources/shear.gif" width="25%">
+</p>
 
 ### Fast staggered schemes for phase-field facture models
 
