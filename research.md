@@ -17,9 +17,9 @@ The developed model is also able to accurately describe the interaction between 
 
 <table>
   <tr>
-    <td><img src="/resources/precrack.jpg" width="145" height="101"></td>
-    <td><img src="/resources/precrack.jpg" width="145" height="101"></td>
-    <td><img src="/resources/precrack.jpg" width="145" height="101"></td>
+    <td><img src="/resources/precrack.jpg" width="33%"></td>
+    <td><img src="/resources/precrack.jpg" width="33%"></td>
+    <td><img src="/resources/precrack.jpg" width="33%"></td>
   </tr>
  </table>
  
