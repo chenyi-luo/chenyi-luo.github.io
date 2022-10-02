@@ -11,8 +11,8 @@ To describe the coupling among fractured solid, crack propagation, and the flow,
 
 <table>
   <tr>
-  <td><img src="/resources/hf-sample.jpg" width="40%"></th>
-  <td><img src="/resources/hf3d.gif" width="50%"></th>
+  <td><img src="/resources/hf-sample.jpg" width="40%"></td>
+  <td><img src="/resources/hf3d.gif" width="50%"></td>
   </tr>
 </table>
 
@@ -32,14 +32,15 @@ To simulate fracturing unsaturated porous media, e.g., the desiccation cracking,
 <p align="center">
 <img src="/resources/dc.gif" width="25%">
 </p>
+
 ### Phase-field models with directional strain decomposition and crack-opening indicator for pre-cracks under shear loading
 
 In rain-fall induced slope failure, pre-cracks and shear deformation play important roles. We found that the standard phase-field model fails to describe the behaviors of pre-cracked solids under both compression and shear loads. Hence, we solved this problem by using the crack-opening indicator concept along with a newly introduced directional strain decomposition for detecting the crack state under complex stress states. This completed the previously proposed phase-field model for saturated porous media. 
 
 <table>
   <tr>
-  <td><img src="/resources/tension.gif" width="25%"></th>
-  <td><img src="/resources/shear.gif" width="25%"></th>
+  <td><img src="/resources/tension.gif" width="25%"></td>
+  <td><img src="/resources/shear.gif" width="25%"></td>
   </tr>
 </table>
 
