@@ -11,8 +11,8 @@ To describe the coupling among fractured solid, crack propagation, and the flow,
 
 <table>
   <tr>
-  <td width="50%"><img src="/resources/hf-sample.jpg"></td>
-  <td width="50%"><img src="/resources/hf3d.gif"></td>
+  <td width="42%"><img src="/resources/hf-sample.jpg"></td>
+  <td width="58%"><img src="/resources/hf3d.gif"></td>
   </tr>
 </table>
 
@@ -31,8 +31,8 @@ To simulate fracturing unsaturated porous media, e.g., the desiccation cracking,
 
 <table>
   <tr>
-  <td width="50%"><img src="/resources/desiccation.jpg"></td>
-  <td width="50%"><img src="/resources/dc.gif"></td>
+  <td width="58%"><img src="/resources/desiccation.jpg"></td>
+  <td width="42%"><img src="/resources/dc.gif"></td>
   </tr>
 </table>
 
@@ -43,8 +43,8 @@ In rain-fall induced slope failure, pre-cracks and shear deformation play import
 
 <table>
   <tr>
-  <td><img src="/resources/tension.gif" width="25%"></td>
-  <td><img src="/resources/shear.gif" width="25%"></td>
+  <td width="50%"><img src="/resources/tension.gif"></td>
+  <td width="50%"><img src="/resources/shear.gif"></td>
   </tr>
 </table>
 
