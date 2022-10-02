@@ -14,9 +14,14 @@ To describe the coupling among fractured solid, crack propagation, and the flow,
 </p>
 
 The developed model is also able to accurately describe the interaction between the pre-crack and newly generated cracks. The numerical simulations are found to be consistent with experimental observations.
+
+:-------------------------:|:-------------------------:
+<img src="/resources/caught.gif" width="11.2%">|<img src="/resources/penetrate.gif" width="11.2%">
 <p align="center">
   <img src="/resources/precrack.jpg" width="145" height="101">
+  &nbsp
   <img src="/resources/caught.gif" width="11.2%">
+  &nbsp
   <img src="/resources/penetrate.gif" width="11.2%">
 </p>
 
