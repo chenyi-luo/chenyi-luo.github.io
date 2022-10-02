@@ -9,22 +9,12 @@ My research develops fully coupled models and efficient numerical algorithms to 
 
 To describe the coupling among fractured solid, crack propagation, and the flow, we embedded the phase-field approach for brittle fracture into the Theory of Porous Media. The developed model allows an accurate description of an autonomous transformation of pore-fluid to bulk fluid as a crack propagates. Furthermore, we introduced a crack opening indicator to transform bulk fluid back to pore-fluid in a closed crack so that the reversible flow transformation is compatible with the irreversible cracking phenomena. The model has been implemented for three-dimensional simulation of hydraulic fracturing processes.
 
-<table border="1" style="text-align: center">
-  <colgroup>
-    <col style="width: 30px"> <img src="/resources/hf-sample.jpg" width="20%"></>
-    <col style="width: 30px"> <img src="/resources/hf-sample.jpg" width="20%"></>
-    <col style="width: 30px"> <img src="/resources/hf-sample.jpg" width="20%"></>
-    <col style="width: 30px"> <img src="/resources/hf-sample.jpg" width="20%"> </>
-  </colgroup>
-</table>
-
-<table border="0" style="text-align: center">
+<table>
   <tr>
-  <th width=50%><img src="/resources/hf-sample.jpg" width="40%"></th>
-  <th width=50%><img src="/resources/hf3d.gif" width="50%"></th>
+  <td><img src="/resources/hf-sample.jpg" width="40%"></th>
+  <td><img src="/resources/hf3d.gif" width="50%"></th>
   </tr>
 </table>
-
 
 The developed model is also able to accurately describe the interaction between the pre-crack and newly generated cracks. The numerical simulations are found to be consistent with experimental observations.
 <table>
@@ -46,10 +36,12 @@ To simulate fracturing unsaturated porous media, e.g., the desiccation cracking,
 
 In rain-fall induced slope failure, pre-cracks and shear deformation play important roles. We found that the standard phase-field model fails to describe the behaviors of pre-cracked solids under both compression and shear loads. Hence, we solved this problem by using the crack-opening indicator concept along with a newly introduced directional strain decomposition for detecting the crack state under complex stress states. This completed the previously proposed phase-field model for saturated porous media. 
 
-<p align="center">
-  <img src="/resources/tension.gif" width="25%">
-  <img src="/resources/shear.gif" width="25%">
-</p>
+<table>
+  <tr>
+  <td><img src="/resources/tension.gif" width="25%"></th>
+  <td><img src="/resources/shear.gif" width="25%"></th>
+  </tr>
+</table>
 
 ### Fast staggered schemes for phase-field facture models
 
