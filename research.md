@@ -31,8 +31,8 @@ To simulate fracturing unsaturated porous media, e.g., the desiccation cracking,
 
 <table>
   <tr>
-  <td width="58%"><img src="/resources/desiccation.jpg"></td>
-  <td width="42%"><img src="/resources/dc.gif"></td>
+  <td width="52%"><img src="/resources/desiccation.jpg"></td>
+  <td width="48%"><img src="/resources/dc.gif"></td>
   </tr>
 </table>
 
