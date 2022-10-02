@@ -11,8 +11,8 @@ To describe the coupling among fractured solid, crack propagation, and the flow,
 
 <table>
   <tr>
-  <td width="50%"><img src="/resources/hf-sample.jpg" width="45%"></td>
-  <td width="50%"><img src="/resources/hf3d.gif" width="55%"></td>
+  <td width="50%"><img src="/resources/hf-sample.jpg"></td>
+  <td width="50%"><img src="/resources/hf3d.gif"></td>
   </tr>
 </table>
 
