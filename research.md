@@ -19,9 +19,9 @@ The developed model is also able to accurately describe the interaction between 
 <img src="/resources/caught.gif" width="11.2%">|<img src="/resources/penetrate.gif" width="11.2%">
 <p align="center">
   <img src="/resources/precrack.jpg" width="145" height="101">
-  &nbsp
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/resources/caught.gif" width="11.2%">
-  &nbsp
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/resources/penetrate.gif" width="11.2%">
 </p>
 
