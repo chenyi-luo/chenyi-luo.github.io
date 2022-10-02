@@ -19,9 +19,9 @@ To describe the coupling among fractured solid, crack propagation, and the flow,
 The developed model is also able to accurately describe the interaction between the pre-crack and newly generated cracks. The numerical simulations are found to be consistent with experimental observations.
 <table>
   <tr>
-  <td><img src="/resources/precrack.jpg" width="18%"></td>
-  <td><img src="/resources/caught.gif" width="41.%"></td>
-  <td><img src="/resources/penetrate.gif" width="41.%"></td>
+  <td width="50%"><img src="/resources/precrack.jpg"></td>
+  <td width="25%"><img src="/resources/caught.gif"></td>
+  <td width="25%"><img src="/resources/penetrate.gif"></td>
   </tr>
 </table>
 
@@ -29,9 +29,13 @@ The developed model is also able to accurately describe the interaction between 
 
 To simulate fracturing unsaturated porous media, e.g., the desiccation cracking, we investigated the behaviors of different material models considering cases when cracks are driven either by the effective-stress or the total stress. The second-order stability condition of the proposed material model was examined to explain why the homogeneous solution bifurcates into a periodic solution and localization occurs in the numerical implementation without any deficiencies. We further introduced two saturation definitions to adapt the standard van Genuchten equation to the fractured unsaturated soil. The model is found to qualitatively agree with an experimentally observed increase in evaporation rate after crack generation. 
 
-<p align="center">
-<img src="/resources/dc.gif" width="25%">
-</p>
+<table>
+  <tr>
+  <td width="50%"><img src="/resources/desiccation.jpg"></td>
+  <td width="50%"><img src="/resources/dc.gif"></td>
+  </tr>
+</table>
+
 
 ### Phase-field models with directional strain decomposition and crack-opening indicator for pre-cracks under shear loading
 
