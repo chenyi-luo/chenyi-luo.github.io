@@ -11,8 +11,11 @@ is_contact: true
 ## Address
 
 > CLA G 25
+> 
 > Tannenstrasse 3
+> 
 > 8092 Zürich
+> 
 > Switzerland
 
 ---
