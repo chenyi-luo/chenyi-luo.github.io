@@ -11,17 +11,17 @@ To describe the coupling among fractured solid, crack propagation, and the flow,
 
 <table>
   <tr>
-  <td><img src="/resources/hf-sample.jpg" width="40%"></td>
-  <td><img src="/resources/hf3d.gif" width="50%"></td>
+  <td><img src="/resources/hf-sample.jpg" width="15%"></td>
+  <td><img src="/resources/hf3d.gif" width="85%"></td>
   </tr>
 </table>
 
 The developed model is also able to accurately describe the interaction between the pre-crack and newly generated cracks. The numerical simulations are found to be consistent with experimental observations.
 <table>
   <tr>
-  <td><img src="/resources/precrack.jpg" width="51.6%"></td>
-  <td><img src="/resources/caught.gif" width="24.%"></td>
-  <td><img src="/resources/penetrate.gif" width="24.%"></td>
+  <td><img src="/resources/precrack.jpg" width="18%"></td>
+  <td><img src="/resources/caught.gif" width="41.%"></td>
+  <td><img src="/resources/penetrate.gif" width="41.%"></td>
   </tr>
 </table>
 
