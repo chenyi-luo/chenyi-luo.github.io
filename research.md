@@ -55,4 +55,4 @@ For three dimensional simulation of fracture problems, we developed fast stagger
 <p align="center">
 <img src="/resources/comp.jpg" width="25%">
 </p>
-See the preprint: Luo, C., 2022. Fast staggered schemes for the phase-field model of brittle fracture based on the fixed-stress concept. arXiv preprint arXiv:2209.07969. ([pdf](https://arxiv.org/pdf/2209.07969.pdf))
+See the preprint: Luo, C., 2022. Fast staggered schemes for the phase-field model of brittle fracture based on the fixed-stress concept. Computer Methods in Applied Mechanics and Engineering, Accepted. arXiv preprint arXiv:2209.07969. ([pdf](https://arxiv.org/pdf/2209.07969.pdf))
